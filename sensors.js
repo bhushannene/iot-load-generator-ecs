@@ -72,7 +72,7 @@ var PostData = function (user)
 }
 
 
-var iterations = 10000;
+var iterations = 100;
 var temp = 0;
 while (iterations > 0)
 {
